@@ -41,3 +41,7 @@ Make sure you use the username `'Credential 4'` and the password `'Credential 4'
 - [Health Monitoring](https://console-openshift-console.apps.cluster-svr5s.svr5s.sandbox1535.opentlc.com/dashboards)
 - [Dashboard](https://central-stackrox.apps.cluster-svr5s.svr5s.sandbox1535.opentlc.com/main/dashboard)
 - [Credential 5](Credentials)
+
+## Interesting Keywords
+- Kernel Space (RHEL)
+- Kata Containers
