@@ -55,5 +55,8 @@ int main() {
     for (size_t i = 0; i < v2.size(); i++) {
         cout << v2[i][0] << " " << v2[i][1] << endl;
     }
+    vector<int> t1 = {1,3};
+    vector<int> t2 = {2,4};
+    cout << min(t1, t2) << endl;
     return 0;
 }
